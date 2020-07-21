@@ -1,9 +1,3 @@
-```sh
-$ whoami | head -n 3
-Hello.  
-I am an upcoming software engineer.  
-I enjoy solving puzzles 🧩 and competitive programming 👾 as my hobby.
-```
 <html>
 <pre>
 <code class="language-bash">$ whoami | head -n 4
